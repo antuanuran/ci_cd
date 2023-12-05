@@ -1,4 +1,4 @@
-# DIPLOMA PROJECT Uranov Anton
+# DIPLOMA PROJECT Uranov Anton .
 
 ### Настройка (for linux):
 1. git clone https://github.com/antuanuran/DIPLOM
